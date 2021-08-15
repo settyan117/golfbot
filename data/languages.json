@@ -1,0 +1,16 @@
+{
+  "ruby": {
+    "slug": "ruby",
+    "name": "Ruby",
+    "image": "esolang/ruby",
+    "fileName": "main.rb",
+    "memoryLimit": 512
+  },
+  "jq": {
+    "slug": "jq",
+    "name": "jq",
+    "image": "esolang/jq",
+    "fileName": "main.jq",
+    "memoryLimit": 512
+  }
+}
